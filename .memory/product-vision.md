@@ -138,3 +138,16 @@ Current regulatory licensing procedures depend on paper forms, manual spreadshee
 - [GOV.UK One Login Technical Guidance](https://docs.sign-in.service.gov.uk/)
 - [GOV.UK Notify Documentation](https://www.notifications.service.gov.uk/)
 - [GOV.UK Pay Documentation](https://www.payments.service.gov.uk/)
+
+---
+
+## 13. Value Rule Set
+
+**Value Definition:** Value for the Digital Licensing and Case Management Service means providing a secure, accessible, and fast experience that significantly reduces manual caseworker overhead, ensures high regulatory compliance, and meets the UK Government Digital Service (GDS) Standards.
+
+| Rule / Criterion | Description | Minimum Threshold for Go |
+|------------------|-------------|--------------------------|
+| User Experience | Improves or supports the citizen's ability to easily apply and track licenses. | Must not degrade WCAG 2.2 Level AA compliance; positive or neutral impact on user completion rate. |
+| Operational Efficiency | Reduces caseworker time spent on manual data entry or application verification. | Identifiable reduction in manual task steps or processing time. |
+| Engineering Enablement | Provides foundational technical capability required to ensure service reliability or architecture compliance. | Must align with accepted ADRs and provide measurable technical reliability. |
+| Strategic Alignment | Aligns with GDS guidelines, UK data residency laws, and core platform requirements. | High alignment. |

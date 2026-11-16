@@ -124,9 +124,10 @@ hippo-agents-test10/
 ## Assumptions
 
 <!-- assumption-list:start -->
-- [ASSUME-0001: Use GOV.UK One Login for Citizen Identity Authentication](assumptions/ASSUME-0001-govuk-one-login.md)
-- [ASSUME-0002: Cloud Hosting on Microsoft Azure UK South](assumptions/ASSUME-0002-azure-uk-south-hosting.md)
-- [ASSUME-0003: Statutory Ten Working Day Casework Decision SLA](assumptions/ASSUME-0003-statutory-casework-sla.md)
+- [ASSUME-0001](assumptions/ASSUME-0001-govuk-one-login.md): Use GOV.UK One Login for Citizen Identity Authentication (unresolved)
+- [ASSUME-0002](assumptions/ASSUME-0002-azure-uk-south-hosting.md): Cloud Hosting on Microsoft Azure UK South (unresolved)
+- [ASSUME-0003](assumptions/ASSUME-0003-statutory-casework-sla.md): Statutory Ten Working Day Casework Decision SLA (unresolved)
+- [ASSUME-0004](assumptions/ASSUME-0004-hello-world-endpoint-engineering-value.md): Hello-World Endpoint Engineering Value (unresolved)
 <!-- assumption-list:end -->
 
 The save_adr and save_assumption tools fill these lists. Do not edit between the markers.
